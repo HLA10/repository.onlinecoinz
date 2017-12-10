@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.coin" name="online coins" version="0.0.1" provider-name="lahu">
+	<extension point="xbmc.addon.repository" name="online coins">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/hla10/repository.coin/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/hla10/repository.coin/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/hla10/repository.coin/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">online currency</summary>
+		<description lang="en">online currency</description>
+		<genre>documentary,gaming,howto,livetv,news,podcasts,tech,tvshows,african,arabic,asian,australian,austrian,belgian,brazilian,canadian,columbian,czech,danish,dominican,dutch,egyptian,filipino,finnish,french,german,greek,hebrew,hungarian,icelandic,indian,irish,italian,japanese,Korean,lebanese,mongolian,moroccan,nepali,newzealand,norwegian,pakistani,polish,portuguese,romanian,russian,singapore,spanish,swedish,swiss,syrian,tamil,thai,turkish,uk,usa,vietnamese</genre>
+	</extension>
+</addon>

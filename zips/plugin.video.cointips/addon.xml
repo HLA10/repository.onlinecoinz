@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.cointips" name="online currency" version="0.0.1" provider-name="me">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.python.koding.aio" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>audio video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">all about crypto currency</summary>
+		<description lang="en">online crypto currency rankins, stock prices, info, news, daily updates, market reaction</description>
+		<platform>all</platform>
+		<forum>http://www.noobsandnerds.com/support</forum>
+		<website>www.noobsandnerds.com</website>
+		<news></news>
+		<genre>gaming,livetv,news,podcasts,radio,tech,tvshows,african,arabic,asian,australian,austrian,belgian,brazilian,canadian,columbian,czech,danish,dominican,dutch,egyptian,finnish,french,german,greek,hebrew,hungarian,icelandic,indian,irish,italian,japanese,Korean,lebanese,mongolian,moroccan,nepali,newzealand,norwegian,pakistani,polish,portuguese,romanian,russian,singapore,spanish,swedish,swiss,syrian,tamil,thai,turkish,uk,usa,vietnamese</genre>
+		<video_guide></video_guide>
+		<video_preview></video_preview>
+	</extension>
+</addon>
